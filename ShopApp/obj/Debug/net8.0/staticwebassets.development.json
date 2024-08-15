@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"ContentRoots":["C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\"],"Root":{"Children":{"images":{"Children":{"iphone.jpg":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"images/iphone.jpg"},"Patterns":null},"post1.jpg":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"images/post1.jpg"},"Patterns":null},"post2.jpg":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"images/post2.jpg"},"Patterns":null},"post3.jpg":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"images/post3.jpg"},"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+=======
+{"ContentRoots":["C:\\Users\\Feteli Isgenderov\\Desktop\\ShopApp-Api--main\\ShopApp\\wwwroot\\"],"Root":{"Children":{"images":{"Children":{"iphone.jpg":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"images/iphone.jpg"},"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+>>>>>>> 67bb883dc0e2fe3545e8e8a15568d41751ff03c7

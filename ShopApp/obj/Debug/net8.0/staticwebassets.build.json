@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "Hash": "yI6Twek2I5c84/AcuU/UdtiYTQloDsSnL+FzPGOImtM=",
+=======
+  "Hash": "h/76XqoAG+N9uEr4xPgr75yZrDsd0AEU8lCXQpP78XU=",
+>>>>>>> 67bb883dc0e2fe3545e8e8a15568d41751ff03c7
+  "Source": "ShopApp",
+  "BasePath": "_content/ShopApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShopApp\\wwwroot",
+      "Source": "ShopApp",
+<<<<<<< HEAD
+      "ContentRoot": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\Feteli Isgenderov\\Desktop\\ShopApp-Api--main\\ShopApp\\wwwroot\\",
+>>>>>>> 67bb883dc0e2fe3545e8e8a15568d41751ff03c7
+      "BasePath": "_content/ShopApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\images\\iphone.jpg",
+      "SourceId": "ShopApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\Feteli Isgenderov\\Desktop\\ShopApp-Api--main\\ShopApp\\wwwroot\\images\\iphone.jpg",
+      "SourceId": "ShopApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Feteli Isgenderov\\Desktop\\ShopApp-Api--main\\ShopApp\\wwwroot\\",
+>>>>>>> 67bb883dc0e2fe3545e8e8a15568d41751ff03c7
+      "BasePath": "_content/ShopApp",
+      "RelativePath": "images/iphone.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\iphone.jpg"
+<<<<<<< HEAD
+    },
+    {
+      "Identity": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\images\\post1.jpg",
+      "SourceId": "ShopApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\",
+      "BasePath": "_content/ShopApp",
+      "RelativePath": "images/post1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\post1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\images\\post2.jpg",
+      "SourceId": "ShopApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\",
+      "BasePath": "_content/ShopApp",
+      "RelativePath": "images/post2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\post2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\images\\post3.jpg",
+      "SourceId": "ShopApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Feteli Isgenderov\\Downloads\\ShopApp-Api--master\\ShopApp\\wwwroot\\",
+      "BasePath": "_content/ShopApp",
+      "RelativePath": "images/post3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\post3.jpg"
+=======
+>>>>>>> 67bb883dc0e2fe3545e8e8a15568d41751ff03c7
+    }
+  ]
+}
